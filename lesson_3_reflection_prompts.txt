@@ -23,7 +23,7 @@ and what would be harder?
 A5. - Well, at this point, am thinking everything will be harder without Git and GitHub.I'd have to use things
 like dropbox,google docs etc.
 
-When would you want to make changes in a separate branch rather than directly in
+Q6. When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
-
-    Fill in your answer here
+A6. - I'll do this when i have a fully working master branch that i do not want to break, so i make a new
+branch to experiment on new features.
