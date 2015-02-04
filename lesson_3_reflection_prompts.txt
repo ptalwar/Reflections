@@ -13,10 +13,10 @@ use one instead of another?
 A3. forks are cpoies of a repo remotely, clones are copies of a repo both locally & remotely and braches are
 copies of the master branch to a certain period in time.
 
-What is the benefit of having a copy of the last known state of the remote
+Q4. What is the benefit of having a copy of the last known state of the remote
 stored locally?
-
-    Fill in your answer here
+A4. - This provides changes others have pushed to the remote that are not yet present in my local repo, this
+way i can compare the two.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
